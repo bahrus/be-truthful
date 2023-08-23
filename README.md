@@ -14,3 +14,5 @@ Check if one of prop 1, prop 2 is falsy.
 Invoke method 1 when checklist is satisfied. 
 '>
 ```
+
+Similar to [be-decisive](https://github.com/bahrus/be-decisive), [be-switched](https://github.com/bahrus/be-switched).  Need to articulate differences between them.
